@@ -2,6 +2,8 @@
 
 A lightweight portable chiptune player for Windows x86, developed using Pascal (Delphi 7).
 
+preview: https://www.youtube.com/watch?v=54Gu4KN6DnA
+
 ## Features
 
 * Portable application
