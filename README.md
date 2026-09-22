@@ -84,4 +84,4 @@ The application is designed for Windows x86 and is developed using Pascal with D
 
 Arx-Play is closed-source software.
 
-Copyright © 2026 Acek Project.
+Copyright © 2026 Acex Project.
